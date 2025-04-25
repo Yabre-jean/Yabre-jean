@@ -1,4 +1,4 @@
-# Salut ! 👋 Je suis Jean de Dieu
+# Salut ! 👋 Yabre Je suis Jean de Dieu
 
 🎓 Je suis en train d’apprendre :
 - 🌐 HTML, CSS, JavaScript
